@@ -138,6 +138,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
+- [vite-plugin-importer](https://github.com/ajuner/importer) - Use babel-plugin-import in vite.
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
